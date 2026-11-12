@@ -3,15 +3,28 @@
   <file path=".claude/instructions/csharp-guidelines.md" templateId="Intent.Modules.Common.CSharp.Templates.StaticContentTemplateRegistrations.AIInstructionsStaticContentTemplateRegistration" />
   <file path=".gitignore" templateId="Intent.VisualStudio.Projects.GitIgnore" />
   <file path="ModuleBuildingTraining.sln" templateId="Intent.VisualStudio.Projects.VisualStudioSolution" />
+  <file path="WorkshopModule/FactoryExtensions/CqrsControllerInstaller.cs" deviationsHash="E4C46C37127952C3A7AE762C94A29D329379650D729CB5061EFCBE8FEDF0E37B" templateId="Intent.ModuleBuilder.Templates.FactoryExtension" />
   <file path="WorkshopModule/Settings/ModuleSettingsExtensions.cs" templateId="Intent.ModuleBuilder.Templates.Settings.ModuleSettingsExtensions" />
+  <file path="WorkshopModule/Templates/CommandHandler/CommandHandlerTemplatePartial.cs" deviationsHash="BF0F89E5EAB23858D63EDC3D706CAC3976B160ED7C4803A291C540D1D5CCFD48" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/CommandHandler/CommandHandlerTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.FilePerModel" />
+  <file path="WorkshopModule/Templates/CommandRequest/CommandRequestTemplatePartial.cs" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/CommandRequest/CommandRequestTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.FilePerModel" />
   <file path="WorkshopModule/Templates/CorrelationContext/CorrelationContextTemplatePartial.cs" deviationsHash="5B5DADAF66D937B9FC0EF465B776CF001D45B06A7FA78C2C404E5F0B4E08E5BB" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
   <file path="WorkshopModule/Templates/CorrelationContext/CorrelationContextTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
   <file path="WorkshopModule/Templates/CorrelationDelegatingHandler/CorrelationDelegatingHandlerTemplatePartial.cs" deviationsHash="7319794C20665841C64A15B60ACBEE3C916704A2007A1C9B5DAFCF6FA2D61D6B" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
   <file path="WorkshopModule/Templates/CorrelationDelegatingHandler/CorrelationDelegatingHandlerTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
   <file path="WorkshopModule/Templates/CorrelationMiddleware/CorrelationMiddlewareTemplatePartial.cs" deviationsHash="7141CAB12FE7E963525890155C9D798D6F4AC9181EB530255BFF47F564D5CD4F" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
   <file path="WorkshopModule/Templates/CorrelationMiddleware/CorrelationMiddlewareTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
+  <file path="WorkshopModule/Templates/Dispatcher/DispatcherTemplatePartial.cs" deviationsHash="884E282C70C42F2929CBC847A9A324E9BAE1F238C1E182D39F48269C0E9F5C4C" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/Dispatcher/DispatcherTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
+  <file path="WorkshopModule/Templates/IAppRequest/IAppRequestTemplatePartial.cs" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/IAppRequest/IAppRequestTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
+  <file path="WorkshopModule/Templates/IAppRequestHandler/IAppRequestHandlerTemplatePartial.cs" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/IAppRequestHandler/IAppRequestHandlerTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
   <file path="WorkshopModule/Templates/ICorrelationContext/ICorrelationContextTemplatePartial.cs" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
   <file path="WorkshopModule/Templates/ICorrelationContext/ICorrelationContextTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
+  <file path="WorkshopModule/Templates/IDispatcher/IDispatcherTemplatePartial.cs" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/IDispatcher/IDispatcherTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
   <file path="WorkshopModule/Templates/TemplateExtensions.cs" templateId="Intent.ModuleBuilder.Templates.TemplateExtensions" />
   <file path="WorkshopModule/WorkshopModule.csproj" templateId="Intent.VisualStudio.Projects.CSharpProject" />
   <file path="WorkshopModule/WorkshopModule.imodspec" templateId="Intent.ModuleBuilder.IModSpecFile" />

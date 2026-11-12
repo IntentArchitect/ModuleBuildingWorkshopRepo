@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="80434654-7150-4eb0-afed-f5ca60f361a4" type="Factory Extension" typeId="7d008e84-bb28-4b10-ba28-7439202fca76">
+  <name>CqrsControllerInstaller</name>
+  <display>CqrsControllerInstaller</display>
+  <parentFolderId>8aae307d-f090-424b-bfb1-aceff0907057</parentFolderId>
+  <packageId>8aae307d-f090-424b-bfb1-aceff0907057</packageId>
+  <packageName>WorkshopModule</packageName>
+</class>

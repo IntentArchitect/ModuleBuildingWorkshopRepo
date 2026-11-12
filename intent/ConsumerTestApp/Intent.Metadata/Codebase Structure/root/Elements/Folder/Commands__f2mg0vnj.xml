@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="484453bd-dd88-43eb-b132-7e7d040ba03e" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>Commands</name>
+  <display>Commands</display>
+  <parentFolderId>cdfaa514-7bdd-46a7-8b76-841ef71e0b79</parentFolderId>
+  <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+  <packageName>root</packageName>
+  <children>
+    <element id="0b7b50b1-fe8b-430f-971b-57d90e8bd646" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.CommandHandler</name>
+      <display>WorkshopModule.CommandHandler</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>484453bd-dd88-43eb-b132-7e7d040ba03e</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="1497ccd8-cff3-4e81-a0c8-867d7a07f7d6" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.CommandRequest</name>
+      <display>WorkshopModule.CommandRequest</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>484453bd-dd88-43eb-b132-7e7d040ba03e</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+  </children>
+</class>

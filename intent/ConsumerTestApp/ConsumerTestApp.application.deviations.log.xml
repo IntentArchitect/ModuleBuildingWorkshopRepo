@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <deviationsLog>
-  <files />
+  <files>
+    <file>
+      <correlationId>Intent.Application.DependencyInjection.DependencyInjection#7a551123-b842-4584-8b29-0d9af5815079</correlationId>
+      <path>ConsumerTestApp.Application/DependencyInjection.cs</path>
+      <count>1</count>
+      <updatedByAccountName>dandre.jvv@intentarchitect.com</updatedByAccountName>
+      <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
+      <updatedAt>2026-11-12T19:46:32.7222952Z</updatedAt>
+      <deviationsHash>2434E61497894075D240F7EF4A343DD53340E304CD00CDCC79B3D48E86A6517D</deviationsHash>
+    </file>
+  </files>
 </deviationsLog>

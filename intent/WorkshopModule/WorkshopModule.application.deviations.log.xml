@@ -2,6 +2,24 @@
 <deviationsLog>
   <files>
     <file>
+      <correlationId>Intent.ModuleBuilder.Templates.FactoryExtension#80434654-7150-4eb0-afed-f5ca60f361a4</correlationId>
+      <path>WorkshopModule/FactoryExtensions/CqrsControllerInstaller.cs</path>
+      <count>2</count>
+      <updatedByAccountName>dandre.jvv@intentarchitect.com</updatedByAccountName>
+      <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
+      <updatedAt>2026-11-12T19:46:32.031089Z</updatedAt>
+      <deviationsHash>E4C46C37127952C3A7AE762C94A29D329379650D729CB5061EFCBE8FEDF0E37B</deviationsHash>
+    </file>
+    <file>
+      <correlationId>Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial#9c9f9949-4739-4394-b8dd-c56a2a7fbc25</correlationId>
+      <path>WorkshopModule/Templates/CommandHandler/CommandHandlerTemplatePartial.cs</path>
+      <count>1</count>
+      <updatedByAccountName>dandre.jvv@intentarchitect.com</updatedByAccountName>
+      <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
+      <updatedAt>2026-11-12T19:46:32.0312323Z</updatedAt>
+      <deviationsHash>BF0F89E5EAB23858D63EDC3D706CAC3976B160ED7C4803A291C540D1D5CCFD48</deviationsHash>
+    </file>
+    <file>
       <correlationId>Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial#f4b45c6f-ae9c-4f64-a426-7d58ab680833</correlationId>
       <path>WorkshopModule/Templates/CorrelationContext/CorrelationContextTemplatePartial.cs</path>
       <count>1</count>
@@ -27,6 +45,15 @@
       <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
       <updatedAt>2026-11-12T19:36:58.8539403Z</updatedAt>
       <deviationsHash>7141CAB12FE7E963525890155C9D798D6F4AC9181EB530255BFF47F564D5CD4F</deviationsHash>
+    </file>
+    <file>
+      <correlationId>Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial#330df277-8db1-42d1-938c-c0b0058ea7f8</correlationId>
+      <path>WorkshopModule/Templates/Dispatcher/DispatcherTemplatePartial.cs</path>
+      <count>1</count>
+      <updatedByAccountName>dandre.jvv@intentarchitect.com</updatedByAccountName>
+      <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
+      <updatedAt>2026-11-12T19:41:52.110733Z</updatedAt>
+      <deviationsHash>884E282C70C42F2929CBC847A9A324E9BAE1F238C1E182D39F48269C0E9F5C4C</deviationsHash>
     </file>
   </files>
 </deviationsLog>

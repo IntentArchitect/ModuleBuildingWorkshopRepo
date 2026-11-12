@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="93f57828-28c8-4539-a397-ec3a03baa9b6" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>Dispatching</name>
+  <display>Dispatching</display>
+  <parentFolderId>b2828af6-fde4-4bcb-b560-74e0b9b57045</parentFolderId>
+  <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+  <packageName>root</packageName>
+  <children>
+    <element id="3460cde0-2360-46cc-836e-ad1dedb6e735" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.Dispatcher</name>
+      <display>WorkshopModule.Dispatcher</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>93f57828-28c8-4539-a397-ec3a03baa9b6</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="c0b8a6eb-846f-457f-b3d1-3de687107e05" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.IAppRequest</name>
+      <display>WorkshopModule.IAppRequest</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>93f57828-28c8-4539-a397-ec3a03baa9b6</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="fe9fec56-97f9-48ca-ae8f-6454d5932c0b" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.IAppRequestHandler</name>
+      <display>WorkshopModule.IAppRequestHandler</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>93f57828-28c8-4539-a397-ec3a03baa9b6</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="0ed77162-db99-4786-b6de-685dc996d987" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.IDispatcher</name>
+      <display>WorkshopModule.IDispatcher</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>93f57828-28c8-4539-a397-ec3a03baa9b6</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+  </children>
+</class>

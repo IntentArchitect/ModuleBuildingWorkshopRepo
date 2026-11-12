@@ -3,7 +3,6 @@
   <name>Default Diagram</name>
   <display>Default Diagram</display>
   <externalReference>169f3801-8244-4b9e-ac2f-3eaede785048</externalReference>
-  <order>1</order>
   <parentFolderId>cefb8c04-d4ec-4180-8397-b0031d79c349</parentFolderId>
   <packageId>cefb8c04-d4ec-4180-8397-b0031d79c349</packageId>
   <packageName>ConsumerTestApp.Services</packageName>
