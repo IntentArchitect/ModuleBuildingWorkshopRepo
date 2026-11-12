@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="5802a3d5-ee1f-42d6-91dc-9b2038a3f9fe" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>Correlation</name>
+  <display>Correlation</display>
+  <parentFolderId>29de1ce7-bb4d-4de0-b243-27547f2489bf</parentFolderId>
+  <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+  <packageName>root</packageName>
+  <children>
+    <element id="a65966ba-73e7-49e4-8f79-3cde2733b0e2" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.CorrelationContext</name>
+      <display>WorkshopModule.CorrelationContext</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>5802a3d5-ee1f-42d6-91dc-9b2038a3f9fe</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+  </children>
+</class>

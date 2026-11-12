@@ -19,12 +19,14 @@
   <file path="ConsumerTestApp.Api/Filters/HideRouteParametersFromBodyOperationFilter.cs" templateId="Intent.AspNetCore.Swashbuckle.HideRouteParametersFromBodyOperationFilter" />
   <file path="ConsumerTestApp.Api/Filters/TypeSchemaFilter.cs" templateId="Intent.AspNetCore.Swashbuckle.TypeSchemaFilter" />
   <file path="ConsumerTestApp.Api/Logging/BoundedLoggingDestructuringPolicy.cs" templateId="Intent.Modules.AspNetCore.Logging.Serilog.BoundedLoggingDestructuringPolicyTemplate" />
+  <file path="ConsumerTestApp.Api/Middleware/CorrelationMiddleware.cs" templateId="WorkshopModule.CorrelationMiddleware" />
   <file path="ConsumerTestApp.Api/Program.cs" templateId="Intent.AspNetCore.Program" />
   <file path="ConsumerTestApp.Api/Properties/launchSettings.json" templateId="Intent.VisualStudio.Projects.CoreWeb.LaunchSettings" />
   <file path="ConsumerTestApp.Api/Services/CurrentUserService.cs" templateId="Intent.Application.Identity.CurrentUserService" />
   <file path="ConsumerTestApp.Api/appsettings.json" templateId="Intent.VisualStudio.Projects.CoreWeb.AppSettings-Default" />
   <file path="ConsumerTestApp.Application.UnitTests/ConsumerTestApp.Application.UnitTests.csproj" templateId="Intent.VisualStudio.Projects.CSharpProject" />
   <file path="ConsumerTestApp.Application/Common/Exceptions/ForbiddenAccessException.cs" templateId="Intent.Application.Identity.ForbiddenAccessException" />
+  <file path="ConsumerTestApp.Application/Common/Interfaces/ICorrelationContext.cs" templateId="WorkshopModule.ICorrelationContext" />
   <file path="ConsumerTestApp.Application/Common/Interfaces/ICurrentUser.cs" templateId="Intent.Application.Identity.CurrentUserInterface" />
   <file path="ConsumerTestApp.Application/Common/Interfaces/ICurrentUserService.cs" templateId="Intent.Application.Identity.CurrentUserServiceInterface" />
   <file path="ConsumerTestApp.Application/Common/Models/Result.cs" templateId="Intent.Application.Identity.ResultModel" />
@@ -45,8 +47,10 @@
   <file path="ConsumerTestApp.Domain/Repositories/IEFRepository.cs" templateId="Intent.EntityFrameworkCore.Repositories.EFRepositoryInterface" />
   <file path="ConsumerTestApp.Domain/Repositories/IPagedList.cs" templateId="Intent.Entities.Repositories.Api.PagedListInterface" />
   <file path="ConsumerTestApp.Domain/Repositories/IRepository.cs" templateId="Intent.Entities.Repositories.Api.RepositoryInterface" />
+  <file path="ConsumerTestApp.Infrastructure/Configuration/Correlation/CorrelationContext.cs" templateId="WorkshopModule.CorrelationContext" />
   <file path="ConsumerTestApp.Infrastructure/ConsumerTestApp.Infrastructure.csproj" templateId="Intent.VisualStudio.Projects.CSharpProject" />
   <file path="ConsumerTestApp.Infrastructure/DependencyInjection.cs" templateId="Intent.Infrastructure.DependencyInjection.DependencyInjection" />
+  <file path="ConsumerTestApp.Infrastructure/HttpClients/CorrelationDelegatingHandler.cs" templateId="WorkshopModule.CorrelationDelegatingHandler" />
   <file path="ConsumerTestApp.Infrastructure/Migrations/README.md" templateId="Intent.EntityFrameworkCore.DbMigrationsReadMe" />
   <file path="ConsumerTestApp.Infrastructure/Persistence/ApplicationDbContext.cs" templateId="Intent.EntityFrameworkCore.DbContext" />
   <file path="ConsumerTestApp.Infrastructure/Repositories/RepositoryBase.cs" templateId="Intent.EntityFrameworkCore.Repositories.RepositoryBase" />

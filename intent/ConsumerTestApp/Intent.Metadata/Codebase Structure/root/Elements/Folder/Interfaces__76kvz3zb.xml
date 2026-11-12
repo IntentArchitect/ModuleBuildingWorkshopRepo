@@ -102,5 +102,16 @@
         <entry key="status" value="assigned" />
       </metadata>
     </element>
+    <element id="b59d274f-33f2-46b1-81b1-21ab768a3a5b" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.ICorrelationContext</name>
+      <display>WorkshopModule.ICorrelationContext</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>5e825a68-3ba1-44be-8479-f43f7e4daba1</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
   </children>
 </class>

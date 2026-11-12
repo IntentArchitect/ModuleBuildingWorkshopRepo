@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="2a6d26c4-ed68-48cc-97b3-cc31cca7eb9e" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>HttpClients</name>
+  <display>HttpClients</display>
+  <parentFolderId>88a4b10b-0fdc-43fc-8567-4a417d1507c9</parentFolderId>
+  <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+  <packageName>root</packageName>
+  <children>
+    <element id="23eb1706-ebd5-487d-9c50-8807d3b4eab8" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.CorrelationDelegatingHandler</name>
+      <display>WorkshopModule.CorrelationDelegatingHandler</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>2a6d26c4-ed68-48cc-97b3-cc31cca7eb9e</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+  </children>
+</class>

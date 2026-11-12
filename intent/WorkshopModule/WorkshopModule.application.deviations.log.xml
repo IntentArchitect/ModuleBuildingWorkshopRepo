@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <deviationsLog>
-  <files />
+  <files>
+    <file>
+      <correlationId>Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial#f4b45c6f-ae9c-4f64-a426-7d58ab680833</correlationId>
+      <path>WorkshopModule/Templates/CorrelationContext/CorrelationContextTemplatePartial.cs</path>
+      <count>1</count>
+      <updatedByAccountName>dandre.jvv@intentarchitect.com</updatedByAccountName>
+      <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
+      <updatedAt>2026-11-12T19:36:58.8538412Z</updatedAt>
+      <deviationsHash>5B5DADAF66D937B9FC0EF465B776CF001D45B06A7FA78C2C404E5F0B4E08E5BB</deviationsHash>
+    </file>
+    <file>
+      <correlationId>Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial#3031c5f5-528d-450f-bd95-8e4750de8000</correlationId>
+      <path>WorkshopModule/Templates/CorrelationDelegatingHandler/CorrelationDelegatingHandlerTemplatePartial.cs</path>
+      <count>1</count>
+      <updatedByAccountName>dandre.jvv@intentarchitect.com</updatedByAccountName>
+      <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
+      <updatedAt>2026-11-12T19:36:58.8539333Z</updatedAt>
+      <deviationsHash>7319794C20665841C64A15B60ACBEE3C916704A2007A1C9B5DAFCF6FA2D61D6B</deviationsHash>
+    </file>
+    <file>
+      <correlationId>Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial#b8b384e5-633c-4b7f-872a-a7216cac5a99</correlationId>
+      <path>WorkshopModule/Templates/CorrelationMiddleware/CorrelationMiddlewareTemplatePartial.cs</path>
+      <count>1</count>
+      <updatedByAccountName>dandre.jvv@intentarchitect.com</updatedByAccountName>
+      <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
+      <updatedAt>2026-11-12T19:36:58.8539403Z</updatedAt>
+      <deviationsHash>7141CAB12FE7E963525890155C9D798D6F4AC9181EB530255BFF47F564D5CD4F</deviationsHash>
+    </file>
+  </files>
 </deviationsLog>

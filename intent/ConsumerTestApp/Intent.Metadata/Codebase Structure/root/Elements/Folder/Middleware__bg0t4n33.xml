@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="37f53c97-8809-40c7-b8f8-89251dcb8842" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>Middleware</name>
+  <display>Middleware</display>
+  <parentFolderId>438f61a6-bb45-436d-b80c-5ccc0eb5851d</parentFolderId>
+  <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+  <packageName>root</packageName>
+  <children>
+    <element id="2485d50c-c74b-4dc7-b006-e303844a3419" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.CorrelationMiddleware</name>
+      <display>WorkshopModule.CorrelationMiddleware</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>37f53c97-8809-40c7-b8f8-89251dcb8842</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+  </children>
+</class>

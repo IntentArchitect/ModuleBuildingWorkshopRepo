@@ -1,4 +1,7 @@
+using ConsumerTestApp.Application.Common.Interfaces;
 using ConsumerTestApp.Domain.Common.Interfaces;
+using ConsumerTestApp.Infrastructure.Configuration.Correlation;
+using ConsumerTestApp.Infrastructure.HttpClients;
 using ConsumerTestApp.Infrastructure.Persistence;
 using Intent.RoslynWeaver.Attributes;
 using Microsoft.EntityFrameworkCore;
@@ -21,6 +24,8 @@ namespace ConsumerTestApp.Infrastructure
                 options.UseLazyLoadingProxies();
             });
             services.AddScoped<IUnitOfWork>(provider => provider.GetRequiredService<ApplicationDbContext>());
+            services.AddScoped<ICorrelationContext, CorrelationContext>();
+            services.AddTransient<CorrelationDelegatingHandler>();
             return services;
         }
     }

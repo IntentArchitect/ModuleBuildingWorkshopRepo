@@ -1,6 +1,7 @@
 using ConsumerTestApp.Api.Configuration;
 using ConsumerTestApp.Api.Filters;
 using ConsumerTestApp.Api.Logging;
+using ConsumerTestApp.Api.Middleware;
 using ConsumerTestApp.Application;
 using ConsumerTestApp.Infrastructure;
 using Intent.RoslynWeaver.Attributes;
@@ -48,6 +49,7 @@ namespace ConsumerTestApp.Api
                 var app = builder.Build();
 
                 // Configure the HTTP request pipeline.
+                app.UseCorrelationId();
                 app.UseSerilogRequestLogging();
                 app.UseExceptionHandler();
                 app.UseHttpsRedirection();

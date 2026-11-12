@@ -3,6 +3,16 @@
   <file path=".claude/instructions/csharp-guidelines.md" templateId="Intent.Modules.Common.CSharp.Templates.StaticContentTemplateRegistrations.AIInstructionsStaticContentTemplateRegistration" />
   <file path=".gitignore" templateId="Intent.VisualStudio.Projects.GitIgnore" />
   <file path="ModuleBuildingTraining.sln" templateId="Intent.VisualStudio.Projects.VisualStudioSolution" />
+  <file path="WorkshopModule/Settings/ModuleSettingsExtensions.cs" templateId="Intent.ModuleBuilder.Templates.Settings.ModuleSettingsExtensions" />
+  <file path="WorkshopModule/Templates/CorrelationContext/CorrelationContextTemplatePartial.cs" deviationsHash="5B5DADAF66D937B9FC0EF465B776CF001D45B06A7FA78C2C404E5F0B4E08E5BB" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/CorrelationContext/CorrelationContextTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
+  <file path="WorkshopModule/Templates/CorrelationDelegatingHandler/CorrelationDelegatingHandlerTemplatePartial.cs" deviationsHash="7319794C20665841C64A15B60ACBEE3C916704A2007A1C9B5DAFCF6FA2D61D6B" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/CorrelationDelegatingHandler/CorrelationDelegatingHandlerTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
+  <file path="WorkshopModule/Templates/CorrelationMiddleware/CorrelationMiddlewareTemplatePartial.cs" deviationsHash="7141CAB12FE7E963525890155C9D798D6F4AC9181EB530255BFF47F564D5CD4F" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/CorrelationMiddleware/CorrelationMiddlewareTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
+  <file path="WorkshopModule/Templates/ICorrelationContext/ICorrelationContextTemplatePartial.cs" templateId="Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial" />
+  <file path="WorkshopModule/Templates/ICorrelationContext/ICorrelationContextTemplateRegistration.cs" templateId="Intent.ModuleBuilder.TemplateRegistration.SingleFileNoModel" />
+  <file path="WorkshopModule/Templates/TemplateExtensions.cs" templateId="Intent.ModuleBuilder.Templates.TemplateExtensions" />
   <file path="WorkshopModule/WorkshopModule.csproj" templateId="Intent.VisualStudio.Projects.CSharpProject" />
   <file path="WorkshopModule/WorkshopModule.imodspec" templateId="Intent.ModuleBuilder.IModSpecFile" />
 </managedFiles>
