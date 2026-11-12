@@ -65,15 +65,22 @@ dotnet run --project ConsumerTestApp/ConsumerTestApp.Api
 # port from ConsumerTestApp.Api/Properties/launchSettings.json (44387)
 
 # P1: echoed / generated correlation ID
-(Invoke-WebRequest "https://localhost:44387/does-not-exist" -SkipHttpErrorCheck -SkipCertificateCheck -Headers @{ "X-Correlation-Id" = "abc-123" }).Headers["X-Correlation-Id"]
+(Invoke-WebRequest "https://localhost:44387/does-not-exist" -SkipHttpErrorCheck -Headers @{ "X-Correlation-Id" = "abc-123" }).Headers["X-Correlation-Id"]
 
 # P2: 500 from the handler stub, correlation ID kept on the error response
-Invoke-WebRequest -Uri "https://localhost:44387/api/products" -Method POST -SkipHttpErrorCheck -SkipCertificateCheck `
+Invoke-WebRequest -Uri "https://localhost:44387/api/products" -Method POST -SkipHttpErrorCheck `
   -ContentType "application/json" -Headers @{ "X-Correlation-Id" = "workshop-123" } `
   -Body '{"title":"Mechanical Keyboard","price":149.99}'
 ```
 
-`-SkipCertificateCheck` is only needed where the ASP.NET Core dev certificate isn't trusted (common on Linux).
+**Trust the ASP.NET Core dev certificate first.** Verifying with the certificate check turned off (`-SkipCertificateCheck`) is generally not a good idea, so set up the certificate properly instead:
+
+```bash
+dotnet dev-certs https --trust
+dotnet dev-certs https --check --trust   # should report a trusted certificate
+```
+
+If the check passes but the commands still fail with `UntrustedRoot`, make sure `SSL_CERT_DIR` includes `~/.aspnet/dev-certs/trust`.
 
 ## Landmines
 
