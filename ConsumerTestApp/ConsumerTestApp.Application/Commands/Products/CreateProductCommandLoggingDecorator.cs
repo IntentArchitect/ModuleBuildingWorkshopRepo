@@ -1,6 +1,10 @@
 using System.Diagnostics;
 using ConsumerTestApp.Application.Common.Dispatching;
+using Intent.RoslynWeaver.Attributes;
 using Microsoft.Extensions.Logging;
+
+[assembly: DefaultIntentManaged(Mode.Fully)]
+[assembly: IntentTemplate("WorkshopModule.SerilogLoggingDecorator", Version = "1.0")]
 
 namespace ConsumerTestApp.Application.Commands.Products
 {

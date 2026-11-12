@@ -12,6 +12,7 @@ using WorkshopModule.Templates.IAppRequest;
 using WorkshopModule.Templates.IAppRequestHandler;
 using WorkshopModule.Templates.ICorrelationContext;
 using WorkshopModule.Templates.IDispatcher;
+using WorkshopModule.Templates.SerilogLoggingDecorator;
 
 [assembly: DefaultIntentManaged(Mode.Fully)]
 [assembly: DefaultIntentManaged(Mode.Fully, Targets = Targets.Usings)]
@@ -79,6 +80,16 @@ namespace WorkshopModule.Templates
         public static string GetIDispatcherName(this IIntentTemplate template)
         {
             return template.GetTypeName(IDispatcherTemplate.TemplateId);
+        }
+
+        public static string GetSerilogLoggingDecoratorName<T>(this IIntentTemplate<T> template) where T : CommandModel
+        {
+            return template.GetTypeName(SerilogLoggingDecoratorTemplate.TemplateId, template.Model);
+        }
+
+        public static string GetSerilogLoggingDecoratorName(this IIntentTemplate template, CommandModel model)
+        {
+            return template.GetTypeName(SerilogLoggingDecoratorTemplate.TemplateId, model);
         }
 
     }

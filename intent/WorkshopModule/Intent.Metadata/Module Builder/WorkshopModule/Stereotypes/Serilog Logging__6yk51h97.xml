@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stereotypeDefinition id="c5d53e03-6048-4150-9731-e729f4d6843d" version="3.1.0">
+  <name>Serilog Logging</name>
+  <targetMode>of-type</targetMode>
+  <targetTypes>
+    <type id="ccf14eb6-3a55-4d81-b5b9-d27311c70cb9">Command</type>
+    <type id="e71b0662-e29d-4db2-868b-8a12464b25d0">Query</type>
+  </targetTypes>
+  <traitStorage>package</traitStorage>
+  <applyMode>manually</applyMode>
+  <icon type="UrlImagePath" source="./img/icons/common/StereotypeDef_256x.png" />
+  <displayIcon>false</displayIcon>
+  <displayIconFunction>return false;</displayIconFunction>
+  <displayAsAnnotation>false</displayAsAnnotation>
+  <displayAsText>true</displayAsText>
+  <autoAdd>false</autoAdd>
+  <allowMultipleApplies>false</allowMultipleApplies>
+  <parentFolderId>8aae307d-f090-424b-bfb1-aceff0907057</parentFolderId>
+  <order>0</order>
+  <packageId>8aae307d-f090-424b-bfb1-aceff0907057</packageId>
+  <packageName>WorkshopModule</packageName>
+  <properties>
+    <property id="47f4a8e0-09a2-43e6-b6a2-c438c5d6b0d3">
+      <name>Log Request</name>
+      <type>string</type>
+      <controlType>checkbox</controlType>
+      <optionsSource>n/a</optionsSource>
+      <defaultValue>true</defaultValue>
+    </property>
+    <property id="de9f2abb-588e-43c7-93c5-76f5c23228c8">
+      <name>Log Response</name>
+      <type>string</type>
+      <controlType>checkbox</controlType>
+      <optionsSource>n/a</optionsSource>
+      <defaultValue>true</defaultValue>
+    </property>
+    <property id="b64be18f-1793-4ba9-8f87-869feba7e42d">
+      <name>Log Duration</name>
+      <type>string</type>
+      <controlType>checkbox</controlType>
+      <optionsSource>n/a</optionsSource>
+      <defaultValue>true</defaultValue>
+    </property>
+  </properties>
+</stereotypeDefinition>

@@ -88,6 +88,14 @@
       <role>Application</role>
       <location>Common/Dispatching</location>
     </template>
+    <template id="WorkshopModule.SerilogLoggingDecorator" externalReference="765a2b6c-91f9-45c3-b4c8-4a4cb8b97448">
+      <config>
+        <add key="ClassName" description="Class name formula override (e.g. '${Model.Name}')" />
+        <add key="Namespace" description="Class namespace formula override (e.g. '${Project.Name}'" />
+      </config>
+      <role>Application</role>
+      <location>Commands</location>
+    </template>
   </templates>
   <decorators></decorators>
   <factoryExtensions>
@@ -120,6 +128,8 @@
   </files>
   <tags />
   <moduleSettingsExtensions />
-  <metadata />
+  <metadata>
+    <install target="Services" src="../../intent/WorkshopModule/Intent.Metadata/Module Builder/WorkshopModule/WorkshopModule.pkg.config" externalReference="8aae307d-f090-424b-bfb1-aceff0907057" />
+  </metadata>
   <migrations />
 </package>

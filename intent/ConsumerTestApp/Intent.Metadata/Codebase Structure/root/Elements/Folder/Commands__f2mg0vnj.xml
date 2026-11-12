@@ -28,5 +28,16 @@
         <entry key="status" value="assigned" />
       </metadata>
     </element>
+    <element id="74a20d44-2b3c-4e25-a98a-1ac77ed1bd81" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>WorkshopModule.SerilogLoggingDecorator</name>
+      <display>WorkshopModule.SerilogLoggingDecorator</display>
+      <externalReference>WorkshopModule</externalReference>
+      <parentFolderId>484453bd-dd88-43eb-b132-7e7d040ba03e</parentFolderId>
+      <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
   </children>
 </class>

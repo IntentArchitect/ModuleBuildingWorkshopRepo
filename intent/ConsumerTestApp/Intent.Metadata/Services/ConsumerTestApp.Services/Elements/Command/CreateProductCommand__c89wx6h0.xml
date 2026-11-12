@@ -28,6 +28,15 @@
         <property name="e3870725-34b3-4684-85f2-ec4a667207fb" display="Success Response Code" value="201 (Created)" />
       </properties>
     </stereotype>
+    <stereotype stereotypeDefinitionId="c5d53e03-6048-4150-9731-e729f4d6843d" name="Serilog Logging">
+      <definitionPackageName>WorkshopModule</definitionPackageName>
+      <definitionPackageId>8aae307d-f090-424b-bfb1-aceff0907057</definitionPackageId>
+      <properties>
+        <property name="47f4a8e0-09a2-43e6-b6a2-c438c5d6b0d3" display="Log Request" value="true" />
+        <property name="de9f2abb-588e-43c7-93c5-76f5c23228c8" display="Log Response" value="true" />
+        <property name="b64be18f-1793-4ba9-8f87-869feba7e42d" display="Log Duration" value="true" />
+      </properties>
+    </stereotype>
   </stereotypes>
   <children>
     <element id="a53a60b2-2a40-40bc-a50c-6fbb204ac49f" type="DTO-Field" typeId="7baed1fd-469b-4980-8fd9-4cefb8331eb2">

@@ -55,5 +55,14 @@
       <updatedAt>2026-11-12T19:41:52.110733Z</updatedAt>
       <deviationsHash>884E282C70C42F2929CBC847A9A324E9BAE1F238C1E182D39F48269C0E9F5C4C</deviationsHash>
     </file>
+    <file>
+      <correlationId>Intent.ModuleBuilder.CSharp.Templates.CSharpTemplatePartial#765a2b6c-91f9-45c3-b4c8-4a4cb8b97448</correlationId>
+      <path>WorkshopModule/Templates/SerilogLoggingDecorator/SerilogLoggingDecoratorTemplatePartial.cs</path>
+      <count>1</count>
+      <updatedByAccountName>dandre.jvv@intentarchitect.com</updatedByAccountName>
+      <updatedByDisplayName>Dandre Jansen van Vuuren</updatedByDisplayName>
+      <updatedAt>2026-11-12T19:50:13.7075356Z</updatedAt>
+      <deviationsHash>9307EC815070F2F40E0739CE6371DD8CA0F3C942B87BA10E74C165D58328BFE6</deviationsHash>
+    </file>
   </files>
 </deviationsLog>

@@ -28,6 +28,7 @@
   <file path="ConsumerTestApp.Application.UnitTests/ConsumerTestApp.Application.UnitTests.csproj" templateId="Intent.VisualStudio.Projects.CSharpProject" />
   <file path="ConsumerTestApp.Application/Commands/Products/CreateProductCommand.cs" templateId="WorkshopModule.CommandRequest" />
   <file path="ConsumerTestApp.Application/Commands/Products/CreateProductCommandHandler.cs" templateId="WorkshopModule.CommandHandler" />
+  <file path="ConsumerTestApp.Application/Commands/Products/CreateProductCommandLoggingDecorator.cs" templateId="WorkshopModule.SerilogLoggingDecorator" />
   <file path="ConsumerTestApp.Application/Common/Dispatching/Dispatcher.cs" templateId="WorkshopModule.Dispatcher" />
   <file path="ConsumerTestApp.Application/Common/Dispatching/IAppRequest.cs" templateId="WorkshopModule.IAppRequest" />
   <file path="ConsumerTestApp.Application/Common/Dispatching/IAppRequestHandler.cs" templateId="WorkshopModule.IAppRequestHandler" />
@@ -44,7 +45,7 @@
   <file path="ConsumerTestApp.Application/Common/Validation/IValidatorProvider.cs" templateId="Intent.Application.FluentValidation.Dtos.ValidatorProviderInterface" />
   <file path="ConsumerTestApp.Application/Common/Validation/ValidatorProvider.cs" templateId="Intent.Application.FluentValidation.Dtos.ValidatorProvider" />
   <file path="ConsumerTestApp.Application/ConsumerTestApp.Application.csproj" templateId="Intent.VisualStudio.Projects.CSharpProject" />
-  <file path="ConsumerTestApp.Application/DependencyInjection.cs" deviationsHash="2434E61497894075D240F7EF4A343DD53340E304CD00CDCC79B3D48E86A6517D" templateId="Intent.Application.DependencyInjection.DependencyInjection" />
+  <file path="ConsumerTestApp.Application/DependencyInjection.cs" templateId="Intent.Application.DependencyInjection.DependencyInjection" />
   <file path="ConsumerTestApp.Domain/Common/CollectionExtensions.cs" templateId="Intent.Entities.CollectionExtensions" />
   <file path="ConsumerTestApp.Domain/Common/Exceptions/NotFoundException.cs" templateId="Intent.Entities.NotFoundException" />
   <file path="ConsumerTestApp.Domain/Common/Interfaces/IUnitOfWork.cs" templateId="Intent.Entities.Repositories.Api.UnitOfWorkInterface" />
