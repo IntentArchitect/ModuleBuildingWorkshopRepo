@@ -16,6 +16,10 @@
       <role>Application</role>
       <location>Commands</location>
     </template>
+    <template id="WorkshopModule.CommandHandlerSkill" externalReference="6c0d0a22-50b6-4621-b89d-43d07ff55dee">
+      <role>AI.Context.Skills</role>
+      <location></location>
+    </template>
     <template id="WorkshopModule.CommandRequest" externalReference="ed843ef9-14ad-476a-832e-8349118509d6">
       <config>
         <add key="ClassName" description="Class name formula override (e.g. '${Model.Name}')" />
@@ -47,6 +51,10 @@
       </config>
       <role>Distribution</role>
       <location>Middleware</location>
+    </template>
+    <template id="WorkshopModule.CorrelationMiddlewareSkill" externalReference="33766a41-1b6f-4a5b-ae0f-ed3107e933fe">
+      <role>AI.Context.Skills</role>
+      <location></location>
     </template>
     <template id="WorkshopModule.Dispatcher" externalReference="330df277-8db1-42d1-938c-c0b0058ea7f8">
       <config>

@@ -3,6 +3,8 @@
   <file path=".claude/instructions/csharp-guidelines.md" templateId="Intent.Modules.Common.CSharp.Templates.StaticContentTemplateRegistrations.AIInstructionsStaticContentTemplateRegistration" />
   <file path=".claude/instructions/unit-test-guidelines.md" templateId="Intent.UnitTesting.UnitTestInstructionTemplate" />
   <file path=".claude/skills/application-service-implementation/SKILL.md" templateId="Intent.Application.ServiceImplementations.ServiceImplementationSkillTemplate" />
+  <file path=".claude/skills/custom-dispatcher-command-handler/SKILL.md" templateId="WorkshopModule.CommandHandlerSkill" />
+  <file path=".claude/skills/custom-dispatcher-middleware/SKILL.md" templateId="WorkshopModule.CorrelationMiddlewareSkill" />
   <file path=".claude/skills/domain-entity/SKILL.md" templateId="Intent.Entities.DomainEntitySkill" />
   <file path=".claude/skills/ef-repository/SKILL.md" templateId="Intent.EntityFrameworkCore.Repositories.EFRepositorySkillTemplate" />
   <file path=".claude/skills/fluent-validation-custom-validation/SKILL.md" templateId="Intent.Application.FluentValidation.CustomValidationSkillTemplate" />

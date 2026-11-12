@@ -158,6 +158,28 @@
             <entry key="status" value="assigned" />
           </metadata>
         </element>
+        <element id="899e86ad-8227-4a64-b7c4-e1601c22ea65" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+          <name>WorkshopModule.CommandHandlerSkill</name>
+          <display>WorkshopModule.CommandHandlerSkill</display>
+          <externalReference>WorkshopModule</externalReference>
+          <parentFolderId>bb8626b4-4831-4661-b3dd-e9157dda4599</parentFolderId>
+          <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+          <packageName>root</packageName>
+          <metadata>
+            <entry key="status" value="assigned" />
+          </metadata>
+        </element>
+        <element id="f53ee618-585e-4b8e-8166-3dc30723562d" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+          <name>WorkshopModule.CorrelationMiddlewareSkill</name>
+          <display>WorkshopModule.CorrelationMiddlewareSkill</display>
+          <externalReference>WorkshopModule</externalReference>
+          <parentFolderId>bb8626b4-4831-4661-b3dd-e9157dda4599</parentFolderId>
+          <packageId>964846a6-366a-4167-9346-5c04e3e339db</packageId>
+          <packageName>root</packageName>
+          <metadata>
+            <entry key="status" value="assigned" />
+          </metadata>
+        </element>
       </children>
     </element>
     <element id="8b0e73b4-0651-4fee-8f35-e48d212fc7be" type="Output Anchor" typeId="025e933b-b602-4b6d-95ab-0ec36ae940da">
