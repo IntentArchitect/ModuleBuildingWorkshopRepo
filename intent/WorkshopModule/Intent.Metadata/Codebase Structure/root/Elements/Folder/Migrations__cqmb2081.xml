@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="7f50b8a9-7e3f-48a6-bea9-5a4026f27944" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>Migrations</name>
+  <display>Migrations</display>
+  <parentFolderId>8e07b361-53e4-48cb-844d-3e34feb14654</parentFolderId>
+  <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+  <packageName>root</packageName>
+  <children>
+    <element id="07395a45-a947-4572-8df7-722b8178b589" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Migrations.OnInstallMigration</name>
+      <display>Intent.ModuleBuilder.Templates.Migrations.OnInstallMigration</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>7f50b8a9-7e3f-48a6-bea9-5a4026f27944</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="6bcf765c-7366-4705-ac4c-01adb6e513ff" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Migrations.OnUninstallMigration</name>
+      <display>Intent.ModuleBuilder.Templates.Migrations.OnUninstallMigration</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>7f50b8a9-7e3f-48a6-bea9-5a4026f27944</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="c7851d70-3a6a-410f-bf91-81a8096893c7" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Migrations.OnVersionMigration</name>
+      <display>Intent.ModuleBuilder.Templates.Migrations.OnVersionMigration</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>7f50b8a9-7e3f-48a6-bea9-5a4026f27944</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+  </children>
+</class>

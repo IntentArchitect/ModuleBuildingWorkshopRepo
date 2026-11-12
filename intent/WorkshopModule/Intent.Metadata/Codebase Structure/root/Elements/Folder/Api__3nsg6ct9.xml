@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="82511c35-77d5-4234-b37b-5942a0d2bae4" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>Api</name>
+  <display>Api</display>
+  <parentFolderId>8e07b361-53e4-48cb-844d-3e34feb14654</parentFolderId>
+  <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+  <packageName>root</packageName>
+  <children>
+    <element id="19db0e2b-8aaf-46b6-b3c1-b7a5016ae8d4" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiAssociationModel</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiAssociationModel</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="16add2db-a54a-4247-9191-336f5cb58e2a" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiAssociationModelExtensions</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiAssociationModelExtensions</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="e5d5bb93-2ca8-43f1-b3ca-8f2d934d734b" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiElementExtensionModel</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiElementExtensionModel</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="e24d37e0-adad-42ad-9b52-a8903970c2ae" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiElementModel</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiElementModel</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="c7a075b9-ba86-4767-8b92-daa41de569ef" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiElementModelExtensions</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiElementModelExtensions</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="16f667bd-d9fa-423a-97f1-fe7cc8aeeac2" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiElementModelPartial</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiElementModelPartial</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="9319ad46-3e4a-40b7-9e57-d65585fbe4be" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiPackageExtensionModel</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiPackageExtensionModel</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="2a14c389-46e3-4cd6-9940-43de3e0f5ab9" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiPackageModel</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiPackageModel</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+    <element id="58902c51-b160-4408-ac0a-346265a527fc" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Api.ApiTraitModel</name>
+      <display>Intent.ModuleBuilder.Templates.Api.ApiTraitModel</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>82511c35-77d5-4234-b37b-5942a0d2bae4</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+  </children>
+</class>

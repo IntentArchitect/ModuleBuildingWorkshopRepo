@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<managedFiles version="1" applicationId="4cdaa6c0-bbee-44d0-805e-bb056fdc2cf2">
+  <file path=".claude/rules/csharp-guidelines.md" templateId="Intent.Modules.Common.CSharp.Templates.StaticContentTemplateRegistrations.AIInstructionsStaticContentTemplateRegistration" />
+  <file path=".claude/rules/exception-guidelines.instructions.md" templateId="Intent.ModuleBuilder.AI.Guidelines.RootPrinciples.ExceptionGuidelinesMd" />
+  <file path=".claude/rules/known-build-gotchas.instructions.md" templateId="Intent.ModuleBuilder.AI.Guidelines.RootPrinciples.KnownBuildGotchasMd" />
+  <file path=".claude/rules/module-building-workflow.instructions.md" templateId="Intent.ModuleBuilder.AI.Guidelines.RootPrinciples.ModuleBuildingWorkflowMd" />
+  <file path=".claude/skills/intent-dotnet-module-integration/SKILL.md" templateId="Intent.ModuleBuilder.AI.DotNet.Skills.IntentDotnetModuleIntegration_SkillMd_Agents" />
+  <file path=".claude/skills/intent-dotnet-module-integration/resources/aspnetcore-controllers.md" templateId="Intent.ModuleBuilder.AI.DotNet.Skills.IntentDotnetModuleIntegration_ResourcesAspnetcoreControllersMd_Agents" />
+  <file path=".claude/skills/intent-dotnet-module-integration/resources/aspnetcore.md" templateId="Intent.ModuleBuilder.AI.DotNet.Skills.IntentDotnetModuleIntegration_ResourcesAspnetcoreMd_Agents" />
+  <file path=".claude/skills/intent-dotnet-module-integration/resources/entities-repositories-api.md" templateId="Intent.ModuleBuilder.AI.DotNet.Skills.IntentDotnetModuleIntegration_ResourcesEntitiesRepositoriesApiMd_Agents" />
+  <file path=".claude/skills/intent-dotnet-module-integration/resources/entityframeworkcore.md" templateId="Intent.ModuleBuilder.AI.DotNet.Skills.IntentDotnetModuleIntegration_ResourcesEntityframeworkcoreMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/SKILL.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_SkillMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/resources/domain-extensions.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_ResourcesDomainExtensionsMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/resources/domain.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_ResourcesDomainMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/resources/eventing.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_ResourcesEventingMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/resources/integration-recipe.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_ResourcesIntegrationRecipeMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/resources/services-extensions.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_ResourcesServicesExtensionsMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/resources/services.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_ResourcesServicesMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/resources/user-interface-extensions.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_ResourcesUserInterfaceExtensionsMd_Agents" />
+  <file path=".claude/skills/intent-modelers-integration/resources/user-interface.md" templateId="Intent.ModuleBuilder.AI.Modelers.Skills.IntentModelersIntegration_ResourcesUserInterfaceMd_Agents" />
+  <file path=".claude/skills/intent-module-orchestrator/SKILL.md" templateId="Intent.ModuleBuilder.AI.Guidelines.Skills.IntentModuleOrchestrator_SkillMd_Agents" />
+  <file path=".claude/skills/intent-module-orchestrator/resources/orchestration-cheatsheet.md" templateId="Intent.ModuleBuilder.AI.Guidelines.Skills.IntentModuleOrchestrator_ResourcesOrchestrationCheatsheetMd_Agents" />
+  <file path=".claude/skills/module-building-strategies/SKILL.md" templateId="Intent.ModuleBuilder.AI.Guidelines.Skills.ModuleBuildingStrategies_SkillMd_Agents" />
+  <file path=".claude/skills/module-context-capture/SKILL.md" templateId="Intent.ModuleBuilder.AI.Guidelines.Skills.ModuleContextCapture_SkillMd_Agents" />
+  <file path=".claude/skills/module-dependency-audit/SKILL.md" templateId="Intent.ModuleBuilder.AI.Guidelines.Skills.ModuleDependencyAudit_SkillMd_Agents" />
+  <file path=".claude/skills/module-docs-chore/SKILL.md" templateId="Intent.ModuleBuilder.AI.Guidelines.Skills.ModuleDocsChore_SkillMd_Agents" />
+  <file path=".claude/skills/module-svg-icon/SKILL.md" templateId="Intent.ModuleBuilder.AI.Guidelines.Skills.ModuleSvgIcon_SkillMd_Agents" />
+  <file path=".claude/skills/module-version-increment/SKILL.md" templateId="Intent.ModuleBuilder.AI.Guidelines.Skills.ModuleVersionIncrement_SkillMd_Agents" />
+</managedFiles>

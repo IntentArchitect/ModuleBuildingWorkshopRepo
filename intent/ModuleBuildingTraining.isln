@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<solution id="841d69f2-50e6-4c32-bd3e-38b445014341">
+  <name>ModuleBuildingTraining</name>
+  <version>3.3.0</version>
+  <icon>./img/logo-blue.svg</icon>
+  <iconType>UrlImagePath</iconType>
+  <metadataRelativePath>Intent.Metadata</metadataRelativePath>
+  <modulesCacheRelativePath>.cache/modules</modulesCacheRelativePath>
+  <lastUsedApplicationTemplate id="Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture" version="5.3.0" />
+  <applications>
+    <application id="4cdaa6c0-bbee-44d0-805e-bb056fdc2cf2" name="ModuleBuilderAiSkills" relativePath="ModuleBuilderAiSkills/ModuleBuilderAiSkills.application.config" />
+    <application id="4150f1de-6d5e-473f-ab64-f37421d4954a" name="WorkshopModule" relativePath="WorkshopModule/WorkshopModule.application.config" />
+    <application id="46c08ddd-ee41-4c1a-b4d9-8825798fa57a" name="ConsumerTestApp" relativePath="ConsumerTestApp/ConsumerTestApp.application.config" />
+  </applications>
+  <workspaceRoot>..</workspaceRoot>
+</solution>

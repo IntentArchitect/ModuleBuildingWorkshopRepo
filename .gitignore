@@ -426,3 +426,27 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Intent Architect
+
+.mcp.json
+
+.codex/config.toml
+
+.github/mcp.json
+
+.cursor/mcp.json
+
+.kiro/settings/mcp.json
+
+opencode.json
+
+# AI agent harness folders and per-machine config (Intent regenerates the skills and rules)
+.claude/
+.agents/
+.codex/
+.cursor/
+.github/
+.kiro/
+.opencode/
+.worktreeinclude

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<managedFiles version="1" applicationId="4150f1de-6d5e-473f-ab64-f37421d4954a">
+  <file path=".claude/instructions/csharp-guidelines.md" templateId="Intent.Modules.Common.CSharp.Templates.StaticContentTemplateRegistrations.AIInstructionsStaticContentTemplateRegistration" />
+  <file path=".gitignore" templateId="Intent.VisualStudio.Projects.GitIgnore" />
+  <file path="ModuleBuildingTraining.sln" templateId="Intent.VisualStudio.Projects.VisualStudioSolution" />
+  <file path="WorkshopModule/WorkshopModule.csproj" templateId="Intent.VisualStudio.Projects.CSharpProject" />
+  <file path="WorkshopModule/WorkshopModule.imodspec" templateId="Intent.ModuleBuilder.IModSpecFile" />
+</managedFiles>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="75ede51c-0370-4dad-a49d-80ec33e9564f" type="Folder" typeId="4d95d53a-8855-4f35-aa82-e312643f5c5f">
+  <name>Settings</name>
+  <display>Settings</display>
+  <parentFolderId>8e07b361-53e4-48cb-844d-3e34feb14654</parentFolderId>
+  <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+  <packageName>root</packageName>
+  <children>
+    <element id="6b0e5bd6-3875-40b0-bbd3-86652f301dee" type="Template Output" typeId="d421c322-7a51-4094-89fa-e5d8a0a97b27">
+      <name>Intent.ModuleBuilder.Templates.Settings.ModuleSettingsExtensions</name>
+      <display>Intent.ModuleBuilder.Templates.Settings.ModuleSettingsExtensions</display>
+      <externalReference>Intent.ModuleBuilder</externalReference>
+      <parentFolderId>75ede51c-0370-4dad-a49d-80ec33e9564f</parentFolderId>
+      <packageId>2e1a042e-082d-45d7-a3e0-60d3ed276124</packageId>
+      <packageName>root</packageName>
+      <metadata>
+        <entry key="status" value="assigned" />
+      </metadata>
+    </element>
+  </children>
+</class>

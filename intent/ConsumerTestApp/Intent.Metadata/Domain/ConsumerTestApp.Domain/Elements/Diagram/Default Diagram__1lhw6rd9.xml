@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="eb111c17-e498-4069-add8-a3f0a1e98193" type="Diagram" typeId="4d66fecd-e9b8-436f-aa50-c59040ad0879">
+  <name>Default Diagram</name>
+  <display>Default Diagram</display>
+  <externalReference>1b7fb00b-5ce4-45b8-876c-8f0f1874fdbb</externalReference>
+  <order>1</order>
+  <parentFolderId>75e83c9f-8275-418d-b294-7c2c8ebb16d1</parentFolderId>
+  <packageId>75e83c9f-8275-418d-b294-7c2c8ebb16d1</packageId>
+  <packageName>ConsumerTestApp.Domain</packageName>
+  <diagram>
+    <targetPackageId>75e83c9f-8275-418d-b294-7c2c8ebb16d1</targetPackageId>
+  </diagram>
+</class>
